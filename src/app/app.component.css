@@ -1,0 +1,75 @@
+.heading{
+    background-color: orangered;
+    padding:20px;
+    color:white;
+    
+}
+
+
+
+p {
+  color: #337AB7;
+}
+
+input {
+  padding: 6px;
+  margin-bottom: 15px;
+  width: 400px;
+  border: none;
+  border-bottom: 1px solid rgb(218, 72, 5);
+  color: black;
+  margin-left: -8%;
+  margin-bottom: 2%;
+}
+
+.register{
+  margin-left: -8%;
+  font-weight: bolder;
+  font-size: 150%;
+  margin-bottom: 5%;
+}
+button {
+  width: 150px;
+  height: 50px;
+  background: orangered;
+
+  border: none;
+  border-radius: 15px;
+  position: relative;
+  color: #fbfbfb;
+  font-size: 15px;
+  text-align: center;
+  cursor: pointer;
+
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+.buttons{
+margin-top: 20px;
+}
+
+#register {
+
+    margin-left: -5%;
+}
+
+.reset {
+    margin-top:-8.7%;
+    margin-left: 20%;
+
+}
+.container
+{
+ margin-left: 40%;
+}
+
+.message{
+  margin-left: -8%;
+  color: orangered ;
+  font-size: 70%;
+}
+.footer {
+  margin-top: 20%;
+}
